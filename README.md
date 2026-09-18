@@ -59,6 +59,15 @@ Cell-specific expression profiles
                 │
                 ▼
  Metabolic exchange and interaction
+
+ For questions or potential collaborations, please contact:
+
+Maria Andrea Angarita Rodríguez
+Doctoral Candidate in Biological Sciences
+MSc in Bioinformatics
+maria.angaritar@javeriana.edu.co
+
+
                 │
                 ▼
  Comparison across
